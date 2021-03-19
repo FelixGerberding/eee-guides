@@ -1,7 +1,7 @@
 ---
 title: 'Was sind eigentlich Raids?'
 image: 'https://i.imgur.com/MfuqRJh.jpeg'
-description: 'Test'
+description: 'Was sind Raids? Für wen ist das was? Und wie fängt man damit an?'
 hidden: false
 ---
 
