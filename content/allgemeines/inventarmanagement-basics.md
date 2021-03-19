@@ -12,3 +12,9 @@ hidden: false
 In Guild Wars 2 gibt es viele kleine Tricks die dir deinen Abenteurer-Alltag massiv erleichtern können. Hier ein kleiner Überblick über alles Wissenswerte rund um das Inventar. 
 
 ## Materialienlager 
+
+test
+
+## Wiederverwertung
+
+test2
