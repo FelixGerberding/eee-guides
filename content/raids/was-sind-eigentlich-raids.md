@@ -1,3 +1,12 @@
+---
+title: 'Was sind eigentlich Raids?'
+image: 'https://i.imgur.com/MfuqRJh.jpeg'
+description: 'Test'
+hidden: false
+---
+
+[[toc]]
+
 # Raids? Was ist das eigentlich?
 
 In MMO's sind Raids normalerweile ein besonders schwerer, instanzierter Gruppen Content, der eine mehr oder weniger koordinierte Gruppe benötigt. Oftmals werden sie als **DER** Engame-Content angesehen. In Guild Wars 2 sind die Raids für 10 Personen ausgelegt und wurden mit der Erweiterung Hearth of Thornes eingefügt. 
