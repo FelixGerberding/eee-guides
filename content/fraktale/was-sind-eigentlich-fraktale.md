@@ -11,8 +11,4 @@ hidden: false
 
 Die Fraktale der Nebel, auch oft <tooltip text="FOTM" title="Fractals of the Mists"> genannt, sind wiederholbare, dungeonähnliche Instanzen für 5 Spieler mit skalierender Schwierigkeit und Belohnung.
 
-## Test1
-
-<embed type="items" id="19976">
-
 Ich mag <tooltip text="UFE" title="Unstable Fractal Essence">!
