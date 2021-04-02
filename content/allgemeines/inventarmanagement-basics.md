@@ -29,7 +29,7 @@ Sobald es sich anbietet empfielt es sich mit etwas Gold zu einem Vertreter der S
 
 **Taschen anzeigen**: Gliedert das Inventar nach einzelnen Taschen statt es als eine große Liste darzustellen. Beide Darstellungen haben Vor- und Nachteile, einfach ausprobieren.
 
-**Gemeinsame Tasche einbetten**: Gliedert Gemeinsame Inventarplätze mit in das Inventar ein statt es seperat anzuzeigen.
+**Gemeinsame Tasche einbetten**: Gliedert Gemeinsame Inventarplätze mit in das Inventar ein statt es separat anzuzeigen.
 
 ## Bank & Materialienlager
 
@@ -43,4 +43,4 @@ Bei den meisten Händlern können Items verkauft werden. In Verkauf-Menü gibt e
 
 Die meisten Items können auch via Rechtsklick im <tooltip text="Handelsposten" title="Schwarzlöwen-Handelsgesellschaft"> an andere Spieler verkauft werden. Meist ist dies lukrativer als ein Verkauf an einen Händler-NPC. Zudem kann von überall im Handelsposten verkauft werden, allerdings muss der Erlös dann bei einem NPC abgeholt werden. Beim Verkauf im Handelsposten kannst du ein Item immer entweder sofort verkaufen (linke Spalte) oder zum Verkauf anbieten (rechte Spalte). Bei den meisten Items lohnt es sich das Item zum Verkauf anzubieten statt sofort zu verkaufen, wenn du etwas auf dein Gold warten kannst. 
 
-Bedenke hierbei das der im Handelsposten angezeigte Preis nocht nicht die <tooltip text="Handelspostengebühr von 15%" title="5% Listengebühr, bei Verkauf 10% Transaktionsgebühr"> beinhaltet.
+Bedenke hierbei das der im Handelsposten angezeigte Preis noch nicht die <tooltip text="Handelspostengebühr von 15%" title="5% Listengebühr, bei Verkauf 10% Transaktionsgebühr"> beinhaltet.
