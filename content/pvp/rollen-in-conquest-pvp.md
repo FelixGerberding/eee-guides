@@ -7,7 +7,7 @@ hidden: false
 
 [[toc]]
 
-## Rollen im PvP
+# Rollen im PvP
 
 Eroberung ist ein Spielmodus, der auf eine Reihe verschiedener Spielstile angewiesen ist, um Erfolg zu garantieren. Richtige Rotations und enfüllung der wichtigen Rollen trägt zum Erfolg bei, nicht nur mechanischer Skill. Da es sich bei Guild Wars 2 um ein RPG mit verschiedenen Klassen und Spielweisen handelt, haben sich mit der Zeit bestimmte Rollen und Archetypen durchgesetzt. Diese können von unterschiedlichen Klassen und Builds erfüllen. 
 
