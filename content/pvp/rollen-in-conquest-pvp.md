@@ -19,4 +19,4 @@ Aufgabe eines Supports ist es seine Verbündeten solange wie möglich am Leben z
 Recht simpel, Heilung & Barriere von Supportern hilft anderen Teammitgliedern sich schneller von erhaltenem Schaden zu erholen und wieder am Geschehen teilzunehmen oder Bursts zu verhindern.
 
 ### Boons
-Boons wie <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection">
+Boons wie <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection"> und <tooltip text="Stabilität" title="Immun gegen Niederschlag, Hoch- und Zurückschleudern, Ziehen, Betäubung, Benommenheit, Schweben, Sinken, Furcht oder Provozieren." class="boon stability"> 
