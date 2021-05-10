@@ -28,6 +28,8 @@ Die Aktuellen Raid Wings sind:
 - Wing 7: Der **Schlüssel von Adashim**:
             Im Schlüssel von Adashim müsst ihr Zuerst ein Event schaffen, mitdem ihr euch zugang zu den Bossen **Kardinal Adina** und **Kardinal Sabir** verschafft. Am Ende werdet ihr euch einen alten Bekannten stellen, nähmlich **Qadim der Unvegleichliche**.
 
+Die Raids könnt ihr durch die Portale im **"Flugplatz von Löwenstein"** erreichen, oder durch die Portale auf verschiedenen Karten. Der Flugplatz bietet hierbei aber die Möglichkeit schnell in jeden möglichen Raid zu kommen. Um die Portale betreten zu können braucht ihr einen Einsatztrupp im Schlachtzug Modus. Wie ihr diesen erstellt, erfahrt ihr später.
+
 ## Hört sich toll an, was muss ich beachten?
 
 Um das Raiden für dich und deine Gruppe zu einem möglichst spaßigen und Erfolgreichen Erlebniss zu machen, sind eine Vorbereitungen von nöten. Zunächst sollte dir bewusst sein, dass Raids (gerade wenn du ein neuer Spieler bist) keinesfalls einfach sind. Um die Raids erfolgreich zu bestehen, solltest du mit den Grund-Machaniken des Spiels gut klarkommen. Außerdem solltest du Erfahrung mit deiner Klasse haben und diese gut Verstehen. 
