@@ -34,6 +34,23 @@ Die Raids könnt ihr durch die Portale im **"Flugplatz von Löwenstein"** erreic
 
 Um das Raiden für dich und deine Gruppe zu einem möglichst spaßigen und Erfolgreichen Erlebniss zu machen, sind eine Vorbereitungen von nöten. Zunächst sollte dir bewusst sein, dass Raids (gerade wenn du ein neuer Spieler bist) keinesfalls einfach sind. Um die Raids erfolgreich zu bestehen, solltest du mit den Grund-Machaniken des Spiels gut klarkommen. Außerdem solltest du Erfahrung mit deiner Klasse haben und diese gut Verstehen. 
 
+Außerdem musst du. wie bereits erwähnt die jeweilige Erweiterung besitzen um den Raid betreten zu können. Desweiterem werden für einige Bosse bestimmte Beherrschungen benötigt. so braucht man zum Beispiel um zu einigen Bossen zu kommen Mounts aus PoF und für zum Beispiel Xera, den letzten Boss aus W4, das Ley-Linien-Gleiten. 
+Beherrschungen die du auf die Dauer freischalten solltest sind:
+- Aufwind-Verwendung (Gleiten)
+- Ley-Linien-Gleiten (Gleiten)
+- Hüpfpilze (Itzel)
+- Blitzgeschwindigkeites-Pilze (Itzel)
+- Adrenalpilze (Itzel)
+- Nuhoch-Enttarnung (Nuhoch)
+- Schluchspringen (Raptor)
+- Treibsand (Schakal)
+Sowie alle Raid Beherrschungen:
+- Riss-Schmied
+- Explosiver Start
+- Wasser des Verlassenen Dickichts
+- Verlassene Magie
+Bedenkt hier allerdings, dass ihr nicht zwingend alle besitzen müsst um mit dem Raiden anzufangen. Jedoch solltet ihr euch um diese Kümmern, sobalt ihr euch sicher seid, dass euch die Raids Spaß machen.
+
 In einer Raid-Gruppe solltet ihr stets auf alle möglichen Situationen vorbereitet sein und darauf achten alle wichtigen Buffs und Segen abzudecken. Dazu braucht ihr eine Mischung von Heilern und anderen Supportern und DPS-Spieler (Schaden). Worauf ihr genau achten müsst, wird im Abschnitt der Teamkompositionen besprochen.
 Nun musst du dich entscheiden welche Rolle du für dein Team einnehmen möchtest. Es ist empfehlenswert, sich ersteinmal als DPS-Spieler mit den Raid-Mechaniken vertraut zu machen, da es als Heiler oder Tank von Vorteil ist den Boss bereits zu kennen.
 
