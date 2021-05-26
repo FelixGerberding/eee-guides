@@ -11,7 +11,7 @@ Hast du dich jemals gefragt, warum sich die SC-Raidgruppe so sehr von alltäglic
 
 ## Druid
 
-[Druid](https://i.imgur.com/KTkr1Zz.png "Druid-Icon")
+![Druid](https://i.imgur.com/KTkr1Zz.png "Druid-Icon")
 
 | Boon | Verfügbarkeit | Ziel | Uptime |
 |------| :-----------: | :--: | ------ |
