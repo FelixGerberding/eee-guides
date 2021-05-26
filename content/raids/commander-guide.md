@@ -11,7 +11,7 @@ Hast du dich jemals gefragt, warum sich die SC-Raidgruppe so sehr von alltäglic
 
 ## Druid <icon url="https://i.imgur.com/KTkr1Zz.png" size="2">
 
-| Boon | Verfügbarkeit | Ziel | Uptime |
+| Boon | Verfügbarkeit | Ziel | Uptime | Kommentar |
 |------| :-----------: | :--: | ------ |
-| <tooltip text="Wut" title="Kritische Trefferchance ist um 20% erhöht." class="boon fury"> | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% |
-| <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection"> | <tag text="Einfach" color="yellow"> | <tag text="Squad" color="green"> | 60% |
+| <tooltip text="Wut" title="Kritische Trefferchance ist um 20% erhöht." class="boon fury"> | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% | Abgedenkt vom Horn mit <embed type="traits" id="964"> |
+| <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection"> | <tag text="Einfach" color="yellow"> | <tag text="Squad" color="green"> | 60% | Kann Fehlen abgängig der Wahl an Geistern |
