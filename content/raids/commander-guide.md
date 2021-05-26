@@ -9,7 +9,7 @@ hidden: false
 
 Hast du dich jemals gefragt, warum sich die SC-Raidgruppe so sehr von alltäglichen Pug-Gruppen unterscheiden? Warum teilen wir Squads in zwei (oder mehr) Untergruppen auf? Auf welche Rollen musst du beim Pugging achten? In diesem Guide erfährst du, was alles dazugehört, um einen funktionierenden Schlachtzugskader zu erstellen, mit allen Nuancen und Details.
 
-## Druid ![Druid](https://i.imgur.com/KTkr1Zz.png "Druid-Icon")
+## Druid <icon url="https://i.imgur.com/KTkr1Zz.png" size="2">
 
 | Boon | Verfügbarkeit | Ziel | Uptime |
 |------| :-----------: | :--: | ------ |
