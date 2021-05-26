@@ -9,6 +9,6 @@ hidden: false
 
 Hast du dich jemals gefragt, warum sich die SC-Raidgruppe so sehr von alltäglichen Pug-Gruppen unterscheiden? Warum teilen wir Squads in zwei (oder mehr) Untergruppen auf? Auf welche Rollen musst du beim Pugging achten? In diesem Guide erfährst du, was alles dazugehört, um einen funktionierenden Schlachtzugskader zu erstellen, mit allen Nuancen und Details.
 
-| Tier | Qual | Instabilitäten | Beschreibung |
-|------| ---- | -------------- | ------------ |
-| <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection"> | <tag text="Möglich" color="yellow"> | 1              | Diese Stufe ist als Einführung in Fraktale gedacht. Mechaniken und Schaden sind sehr nachsichtig. |
+| Boon | Verfügbarkeit | Ziel | Uptime |
+|------| :-----------: | :--: | ------ |
+| <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection"> | <tag text="Garantiert" color="pink"> | <tag text="Party" color="blue"> | 100% |
