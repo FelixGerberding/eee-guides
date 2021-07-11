@@ -21,13 +21,13 @@ Recht simpel, Heilung & Barriere von Supportern hilft anderen Teammitgliedern si
 ### Boons
 Boons wie <boon name="protection"/> und <boon name="aegis"/> helfen eingehenden Schaden zu verringern, <boon name="stability"> kann Verbündeten ebenfalls beim Überleben helfen.
 
-## Crowd Control 
+### Crowd Control 
 Gegner mithilfe von CC davon abhalten deine Verbündeten anzugreifen oder Combos zu ermöglichen ist ein weiterer Weg wie du als Support deinem Team aushelfen kannst.
 
-## Wiederbelebung
-Manchmal kannst du einen Teammate nicht am Leben halten und er geht in den Downed-State. Mit Fähigkeiten wie <embed type="skills" id="9163"> kannst du Teammitgleider sofort wieder aufheben und den Kampf weiterführen.
+### Wiederbelebung
+Manchmal kannst du einen Teammate nicht am Leben halten und er geht in den Downed-State. Mit Fähigkeiten wie <embed type="skills" id="9163" size="16"> kannst du Teammitgleider sofort wieder aufheben und den Kampf weiterführen.
 
-<alert color="red" icon="❗" text="Ein häufiger Fehler für Support-Spieler ist das Sie selbst für ihre Teammitglieder sterben. Das sollte nie passieren. Manchmal kannst du einen Spieler nicht retten und ein **Disengage** ist nötig.">
+Ein häufiger Fehler für Support-Spieler ist das Sie selbst für ihre Teammitglieder sterben. Das sollte nie passieren. Manchmal kannst du einen Spieler nicht retten und ein **Disengage** ist nötig.
 
 ## Teamfighter / DPS
 
