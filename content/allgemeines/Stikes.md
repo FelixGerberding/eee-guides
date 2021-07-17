@@ -16,8 +16,8 @@ Strikes sind wiederholbare, raidähnliche Instanzen für 10 Spieler. Strikes bie
 | ------ | ----------- |----------- |
 | Shiver / sp  | [Zittergipfelpass](#Zittergipfelpass) | [Shiverpeaks Pass](#Zittergipfelpass) |
 | Kodan | [Stimme der Gefallenen und Klaue der Gefallenen](#Stimme-der-Gefallenen-und-Klaue-der-Gefallenen)  | [Voice of the Fallen and Claw of the Fallen](#Stimme-der-Gefallenen-und-Klaue-der-Gefallenen)| ext | 
-| Frenir | Fraenir Jormags | Fraenir of Jormag |
-| Bone / bs | Knochenhäuter| Boneskinner |
+| Frenir | [Fraenir Jormags](#Fraenir-Jormag) | [Fraenir of Jormag](#Fraenir-Jormag) |
+| Bone / bs | [Knochenhäuter](@Knochenhäuter)| [Boneskinner](@Knochenhäuter) |
 | Whisper | Geflüster des Jormag | Whisper of Jormag |
 | Fs | Geschmiedeter Stahl | Forging Steel |
 | Cw | Kalter Krieg| Cold War |
@@ -51,7 +51,9 @@ Knochenhäuter ist sicherliche einer der schwierigeren Bossen. Knochenhäuter ha
 
 #### "Schwarze Felder"
 
-In regelmässigen Abständen erscheint unter jedem Spieler ein oranges Feld welches zuerst mit dem Spieler mitbewegt wird. Nachb kurzer Zeit bleibt das orange Feld liegen und es erscheinnt ein schwarzer Feld. Des 
+In regelmässigen Abständen erscheint unter jedem Spieler ein oranges Feld welches zuerst mit dem Spieler mitbewegt wird. Nachb kurzer Zeit bleibt das orange Feld liegen und es erscheint ein schwarzer Feld. Die schwarzen Felder verteilen viel Schaden uns sollten nicht betreten werden. Ziel ist es alle Felder an einem Ort zu sammeln und danach zusammen um den Boss zur nächsten Stelle laufen. **Wichtig: Immer bei Kommander stehen!**
+
+Üblicherweise wird Knöchenhäuter mit einem Heal-Scourge gespielt, welcher mit (##) angeschlagene Spieler aus den schwarzen Felder porten kann. 
 
 ![Schwarze_Felder2](https://i.imgur.com/niMNLE0.jpg)           |  ![Schwarze_Felder](https://i.imgur.com/BMTJpfw.jpg) 
 :-------------------------:|:-------------------------: 
