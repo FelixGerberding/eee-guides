@@ -1,18 +1,12 @@
-title: 'Strikes' 
+title: 'Was sind eigenlich Strikes?' 
 image: 'https://wiki.guildwars2.com/images/4/4c/A_Race_to_Arms_loading_screen.jpg' 
 description: 'Hier findest du alles, was du über Strikes wissen must' 
 hidden: false 
 ---
-# Was sind eigentlich Strikes?
-
-![Titelbild](https://wiki.guildwars2.com/images/4/4c/A_Race_to_Arms_loading_screen.jpg)
----
-##### Letzte Änderung am Sonntag, 21. März 2021 von DrOpossum. Du hast einen Fehler gefunden? Schlage hier eine Änderung vor.
----
-- Was sind Strikes?
-- Auge des Nordens
-- Strikes im Detail
-- Belohnungen
+- [Was sind Strikes?](#Was-sind-Strikes?)
+- [Auge des Nordens](#Auge-des-Nordens)
+- [Strikes im Detail](#Stikes-im-Detail)
+- [Belohnungen](#Belohnungen)
 ---
 ## Was sind Strikes?
 
@@ -20,7 +14,7 @@ Strikes sind wiederholbare, raidähnliche Instanzen für 10 Spieler. Strikes bie
 
 | Abürzungen| Deutsch | English |
 | ------ | ----------- |----------- |
-| Shiver / sp  | Zittergipfelpass | Shiverpeaks Pass |
+| Shiver / sp  | [Zittergipfelpass](#Zittergipfelpass) | [Shiverpeaks Pass](#Zittergipfelpass) |
 | Kodan | Stimme der Gefallenen und Klaue der Gefallenen  | Voice of the Fallen and Claw of the Fallen| ext | 
 | Frenir | Fraenir Jormags | Fraenir of Jormag |
 | Bone / bs | Knochenhäuter| Boneskinner |
@@ -34,6 +28,14 @@ Um ein eine Strike-Mission zu öffnen oder um beizutreten, muss ein Einsatztrupp
  ------ | ----------- |
 | öffentlich |  Zufällige Spieler werden automatisch zugeteilt | 
 | privat | Nur Spieler welche im Einsatztrupp sind können beitreten |
+---
+## Stikes im Detail
+### Zittergipfelpass
+Die Stike-Mission "Zittergipfelpass" ist in zwei Teile aufgeteilt. Im ersten Teil ist die Aufgabe zum Boss zu gelangen. Dafür muss ein Sprugrätsel gelöst werden. Sobald eine Person die Bossplattform erreicht hat, können die anderen Mitstreiter über den erschienen Portpunkt teleportieren. Der eigentliche Bosskampf ist relativ geradlinig und braucht keine spezielle Erklärung. 
+
+![Zittergipfelpass_1](https://i.imgur.com/tF8YeEp.jpg)
+
+###
 
 ---
 ## Auge des Norden
@@ -53,5 +55,5 @@ Einmal pro Woche kann die grosse Kiste im Auge des Nordens geöffnet werden. Fü
 
 ![Belohnungen](https://i.imgur.com/WfmoSxx.jpeg)
 
-## Stikes im Detail
+
 
