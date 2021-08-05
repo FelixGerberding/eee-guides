@@ -29,6 +29,6 @@ Häufige Movement-Speed Boni sind:
 
 ## No Port Spots
 
-No Port Spots sind Ort auf einer Map die Ports wie <embed type="skills" id="13014" size="16"> oder <embed type="skills" id="28231" size="16"> verhindern. Sie erlauben dir massivem Burst von Klassen wie Herald, Dieb, Mesmer oder Wächter aus dem Weg zu gehen. 
+No Port Spots sind Ort auf einer Map die Ports wie <embed type="skills" id="13014" size="16"> oder <embed type="skills" id="28231" size="16"> verhindern. Sie erlauben dir massivem Burst von Klassen wie Herald, Dieb, Mesmer oder Wächter aus dem Weg zu gehen. In den meisten Fights haben Klasse mit Ports den Vorteil das Sie ihre Gegner direkt in die Defensive zwingen können. Die Verwendung eines No Port Spots hindert diese Klassen am Engage und erlauben dir den ersten Schlag zu machen. Allerdings sind No Port Spots meinst nicht in der Nähe eines Punktes und somit nicht immer nützlich. Ein gutes Beispiel für die Verwendung eines solchen Spots wäre ein +1 durch einen Dieb. Wenn der Dieb <embed type="skills" id="13014" size="16"> nicht verwenden kann ist er kaum eine Bedrohung.  
 
 Eine vollständige Liste aller No Port Spots werden wir später, zusammen mit unseren Map-Guides, veröffentlichen.
