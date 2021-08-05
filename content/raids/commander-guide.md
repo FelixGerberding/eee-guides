@@ -14,5 +14,7 @@ Hast du dich jemals gefragt, warum sich die SC-Raidgruppe so sehr von alltäglic
 
 | Boon | Verfügbarkeit | Ziel | Uptime | Kommentar |
 |------| :-----------: | :--: | ------ | ------ |
-| <tooltip text="Wut" title="Kritische Trefferchance ist um 20% erhöht." class="boon fury"> | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% | Abgedenkt vom Kriegshorn mit <embed type="traits" id="964" size="20"> |
-| <tooltip text="Schutz" title="Eingehender Schaden wird um 33% reduziert." class="boon protection"> | <tag text="Einfach" color="yellow"> | <tag text="Squad" color="green"> | 60% | Abgängig der Wahl an Geistern |
+| <boon name="regeneration"> | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% | Abgedenkt vom Kriegshorn mit <embed type="traits" id="964" size="16"> |
+| <boon name="swiftness">    | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% | Kriegshorn |
+| <boon name="fury">         | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% | Kriegshorn |
+| <embed type="traits" id="1016" size="16"> | <tag text="Garantiert" color="pink"> | <tag text="Subgroup" color="blue"> | 100% | Kann fehlen bei z.B. Sabir oder Desmina |
