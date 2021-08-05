@@ -20,7 +20,7 @@ Jede Rolle in Conquest hat eine gewisse Aufgabe zu erledigen. Mehr Details dazu 
 |----------|--------------|
 | Duelist  | Builds die gut in 1v1 oder 1vX sind. Sie beteiligen sich wenig an Teamfights sondern kümmern sich um die anderen Punkte | 
 | Support  | Builds mit viel Heilung, Rezz-Power und Boons die ihren Verbündeten (meist im Teamfights) beim Überleben helfen  |
-| DPS      | Builds mit hohem Schaden aber geringer Selbstständigkeit. Sie beteiligen sich an Teamfights und benötigen Supports zum Überleben |
+| DPS      | Builds mit hohem Schaden aber geringer Selbstständigkeit. Sie beteiligen sich an Teamfights und benötigen Supports |
 | Roamer   | Builds mit hoher Mobilität und viel Burst-Schaden die Überzahl-Situationen erzeugen und Kills sichern |
 
 ## Strategie
