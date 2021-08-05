@@ -37,10 +37,8 @@ Die optimale Strategie in Conquest ist dem Gegner auf einem Punkt gegenüber in 
 
 Viele Spieler verstehen das zu Beginn eines Matches mindestens 2 Punkte abgedeckt werden sollten, allerdings vergessen viele Teams das 1-4 nicht die einzig mögliche Aufteilung ist! Wie man ein Match beginnt ist abhängig von der einen Team-Comp sowie der Comp der Gegner.
 
-Wenn zum Beispiel dein Team einen Roamer hat kann auch 1-3-1 vorteilhaft sein, da schnelle Rotations zwischen den Nodes möglich sind. Sollte dein Team stattdessen 3 Duelists haben und ihr spielt gegen ein Team das sehr stark in Teamfights ist, so könnt ihr an Anfang einem Teamfight aus dem Weg gehen indem ihr 2 Spieler Close und 3 Spieler Far schickt.
 
-Die Team-Comp der Gegner sollte bestimmen, wie dein Team das Match eröffnet!
-
+Wenn zum Beispiel dein Team einen Roamer hat kann auch 1-3-1 vorteilhaft sein, da schnelle Rotations zwischen den Nodes möglich sind. Sollte dein Team stattdessen 3 Duelists haben und ihr spielt gegen ein Team das sehr stark in Teamfights ist, so könnt ihr an Anfang einem Teamfight aus dem Weg gehen indem ihr 2 Spieler Close und 3 Spieler Far schickt. **Die Team-Comp der Gegner sollte bestimmen, wie dein Team das Match eröffnet!**
 ## Overextending
 
 Overextending ist der Versuch, einen Mapvorteil zu erlangen, den dein Team nicht aufrechterhalten kann. Dies tritt am häufigsten auf wenn dein Team das gegnerische Team komplett getötet hat. Das führt dazu das die Gegner alle gemeinsam respawnen. Es treten keine verschobenen Respawns auf. Verschobene Respawns sind wichtig weil sie verhindern dass das gegnerische Team mit voller Kraft kämpfen kann - das hilft deinem Team eine Überzahlsituation zu erzeugen. Wenn das gegnerische Team gemeinsam respawnt wird es oft in der Überzahl zusammen auf einen Node pushen. Sollte dein Team overextended so führt das zu einfachen Kills für die Gegner die dafür sorgen das ihr in der Unterzahl seid. Somit hat der gewonnene Teamfight nichts gebracht. 
