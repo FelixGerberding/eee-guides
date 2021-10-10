@@ -24,8 +24,28 @@ Zudem geben alle Spirits bei Reaktivierung der Fähigkeit Buffs für 10 Spieler 
 | Spirit                                     | Effekt                                                              | Cooldown |
 |--------------------------------------------|---------------------------------------------------------------------|----------|
 | <embed type="skills" id="21773" size="16"> | Heilt um 863 (0.125) wenn ein Gegner angegriffen wird               | 10s      |
-| <embed type="skills" id="12498" size="16"> | Fügt 2x 2.5s Buring zu wenn ein Gegner angegriffen wird             | 8s       |
+| <embed type="skills" id="12498" size="16"> | Fügt 2 x 2.5s Buring zu wenn ein Gegner angegriffen wird             | 8s       |
 | <embed type="skills" id="12493" size="16"> | Fügt 3 x 6s Vulnerability zu wenn ein Gegner angegriffen wird       | 10s      |
 | <embed type="skills" id="12497" size="16"> | Gibt einen permanenten 5% Bonus auf Power-Schaden                   | -/-      |
 | <embed type="skills" id="12495" size="16"> | Gibt 3s <boon name="protection"> zu wenn ein Gegner angeriffen wird | 10s      |
 | <embed type="skills" id="12569" size="16"> | Heilt 101 (0.035) skalierend mit der Healingpower des Druids        | 1s       |
+
+### Aktive Effekte der Spirits
+
+| Spirit                                     | Effekt                                                                 | Boons                                                     |
+|--------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|
+| <embed type="skills" id="21775" size="16"> | Heilt dich und dein Pet um 3865 (0.35) und deine Subgroup um 1940.     | 5s <boon name="regeneration"> für 10 Spieler.             |
+| <embed type="skills" id="12592" size="16"> | Fügt 1 x 4s Burning und 5s Blindness auf 5 Gegner zu                   | 3s <boon name="vigor"> für 10 Spieler.                    |
+| <embed type="skills" id="12594" size="16"> | Fügt 2232 (1.275) Schaden und 1s Daze auf 5 Gegner zu                  | 5s <boon name="fury"> für 10 Spieler.                     |
+| <embed type="skills" id="12593" size="16"> | Fügt 3s Chill sofort und 5x1sec über Zeit auf 5 Gegner zu              | 8s <boon name="might"> für 10 Spieler.                    |
+| <embed type="skills" id="12595" size="16"> | Fügt 2s Immobilize sofort und 4x4s Cripple auf 5 Gegner zu             | 3s <boon name="protection"> für 10 Spieler.               |
+| <embed type="skills" id="12596" size="16"> | Cleanst 3 Zustände und belebt bis zu 5 Spieler wieder.                 | 3s <boon name="stability"> für 10 Spieler.                |
+
+### Wann nimmt man was mit?
+
+- Bei Fights mit vielen Zuständen (Sloth, Matthias, Xera, Soulless Horror, Dhuum, Largos) kann <embed type="skills" id="12596" size="16"> nützlich sein, ansonsten nimm <embed type="skills" id="21773" size="16">.
+- Wenn Power-Klassen dabei sind solltest du <embed type="skills" id="12497" size="16"> mitnehmen.
+- <embed type="skills" id="12498" size="16"> kann genommen werden wenn ein Utility-Slot frei ist für mehr DPS, vorallem wenn Condi-Klassen dabei sind.
+- Du solltest <embed type="skills" id="12493" size="16"> nehmen wenn deinem Squad <boon name="fury"> oder Vulnerability fehlt. Vulnerability-Uptime zu korrigieren bringt mehr als die offensiven Spirits!
+- <embed type="skills" id="12495" size="16"> wird verwendet um <boon name="protection"> abzudecken. Diesen Spirit solltest du eigentlich immer mitnehmen außer jemand anderes übernimmt Protection (z.B. Tempest) oder Protection ist nicht nötig (z.B. Adina/Samarog/Gorseval)
+- Als Elite ist meist <embed type="skills" id="12569" size="16">
