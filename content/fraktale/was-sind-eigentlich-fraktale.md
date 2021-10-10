@@ -19,3 +19,5 @@ Die Fraktale der Nebel, auch oft <tooltip text="FOTM" title="Fractals of the Mis
 | 4    | 150          | 3              | Für Tier 4 Fraktale solltest du deine Klasse und die Mechaniken der Fraktale gut kennen. Zudem setzen die meisten Gruppen Buff-Food und Fraktaltränke vorraus |
 
 Je höher das Level desto mehr Mechaniken werden hinzugefügt und Gegner verursachen mehr Schaden. Dafür gibt es natürlich auch bessere Belohnungen. Ab Level 20 tritt Qual auf. Qual ist ein Debuff der konstant Schaden abhängig deiner maximalen Lebenspunkte verursacht und nur mit Qualresistenz (engl. Agony Resistance) abgeschwächt werden kann. Höhere Fraktalstufen sind ohne <tooltip text="AR" title="Agony Resistance"> nicht zugänglich. Jede Fraktalstufe hat eine eigenen eigenen empfohlenen Wert an AR. 
+  
+<alert color="red" icon="❗" text="Dieser Artikel ist noch in Arbeit! Der Rest folgt bald.">
