@@ -9,8 +9,8 @@ hidden: true
 
 | Code                           | Ergebniss                    |
 |--------------------------------|------------------------------|
-| `<profession name="Weaver">`   | <profession name="Weaver">   | 
-| `<profession name="Guardian">` | <profession name="Guardian"> | 
+| `<profession name="weaver">`   | <profession name="weaver">   | 
+| `<profession name="guardian">` | <profession name="guardian"> | 
 
 ## Boons
   
