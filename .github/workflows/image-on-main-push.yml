@@ -1,5 +1,5 @@
 name: Compress Images on Push to main branch
-  on:
+on:
   push:
     branches:
       - main
