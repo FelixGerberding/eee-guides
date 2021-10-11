@@ -1,6 +1,6 @@
 ---
 title: 'Custom Formatting'
-image: 'https://i.imgur.com/fjB8e43.jpeg'
+image: '/images/allgemeines/custom-formatting/thumbnail.jpeg'
 description: 'Eine kleine Übersicht über das Custom Formatting der EEE-Website'
 hidden: true
 ---
