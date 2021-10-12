@@ -52,7 +52,7 @@ Zudem geben alle Spirits bei Reaktivierung der Fähigkeit Buffs für 10 Spieler 
 
 ## Spotter
 
-<embed type="traits" id="1016" size="16"> ist ein einzigartiger Buff der bis zu 5 Spielern alle 3 Sekunden für 9 Sekunden 100 Präzision, also 4.76% Crit-Chance, gewährt. Die zusätzliche Präzision erlaubt einigen Klassen mehr offensive Stats mitzunehmen und trotzdem dank dem <profession name="druid"> auf 100% Crit-Chance zu kommen.
+Der Trait <embed type="traits" id="1016" size="16"> gibt einen einzigartigen Buff der bis zu 5 Spielern alle 3 Sekunden für 9 Sekunden 100 Präzision, also 4.76% Crit-Chance, gewährt. Die zusätzliche Präzision erlaubt einigen Klassen mehr offensive Stats mitzunehmen und trotzdem dank dem <profession name="druid"> auf 100% Crit-Chance zu kommen.
 
 Alle Power-Klasse brauchen Spotter bis auf:
 - Power <profession name="holosmith">
