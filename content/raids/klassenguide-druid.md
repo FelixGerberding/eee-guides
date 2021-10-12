@@ -24,7 +24,7 @@ Zudem geben alle Spirits bei Reaktivierung der Fähigkeit Buffs für 10 Spieler 
 | Spirit                                     | Effekt                                                              | Cooldown |
 |--------------------------------------------|---------------------------------------------------------------------|----------|
 | <embed type="skills" id="21773" size="16"> | Heilt um 863 (0.125) wenn ein Gegner angegriffen wird               | 10s      |
-| <embed type="skills" id="12498" size="16"> | Fügt 2 x 2.5s Buring zu wenn ein Gegner angegriffen wird             | 8s       |
+| <embed type="skills" id="12498" size="16"> | Fügt 2 x 2.5s Buring zu wenn ein Gegner angegriffen wird            | 8s       |
 | <embed type="skills" id="12493" size="16"> | Fügt 3 x 6s Vulnerability zu wenn ein Gegner angegriffen wird       | 10s      |
 | <embed type="skills" id="12497" size="16"> | Gibt einen permanenten 5% Bonus auf Power-Schaden                   | -/-      |
 | <embed type="skills" id="12495" size="16"> | Gibt 3s <boon name="protection"> zu wenn ein Gegner angeriffen wird | 10s      |
@@ -48,4 +48,24 @@ Zudem geben alle Spirits bei Reaktivierung der Fähigkeit Buffs für 10 Spieler 
 - <embed type="skills" id="12498" size="16"> kann genommen werden wenn ein Utility-Slot frei ist für mehr DPS, vorallem wenn Condi-Klassen dabei sind.
 - Du solltest <embed type="skills" id="12493" size="16"> nehmen wenn deinem Squad <boon name="fury"> oder Vulnerability fehlt. Vulnerability-Uptime zu korrigieren bringt mehr als die offensiven Spirits!
 - <embed type="skills" id="12495" size="16"> wird verwendet um <boon name="protection"> abzudecken. Diesen Spirit solltest du eigentlich immer mitnehmen außer jemand anderes übernimmt Protection (z.B. Tempest) oder Protection ist nicht nötig (z.B. Adina/Samarog/Gorseval)
-- Als Elite ist meist <embed type="skills" id="12569" size="16">
+- Als Elite ist meist <embed type="skills" id="12569" size="16"> am besten. Bei Fights mit Condi-Bursts ist <embed type="skill" id="31677" size="16"> sehr praktisch. Sie kann verwendet werden um die <condition name="confusion"> bei KC, den <condition name="blind"> bei Zane oder die Condis vom Sloth-Shacke zu verhindern. Auch <embed type="skills" id="12580" size="16"> kann gut sein wenn <condition name="immobilized"> benötigt wird wie bei Escort oder Vale Guardian.
+
+## Spotter
+
+<embed type="traits" id="1016" size="16"> ist ein einzigartiger Buff der bis zu 5 Spielern alle 3 Sekunden für 9 Sekunden 100 Präzision, also 4.76% Crit-Chance, gewährt. Die zusätzliche Präzision erlaubt einigen Klassen mehr offensive Stats mitzunehmen und trotzdem dank dem <profession name="druid"> auf 100% Crit-Chance zu kommen.
+
+Alle Power-Klasse brauchen Spotter bis auf:
+- Power <profession name="holosmith">
+- Power <profession name="daredevil">
+- Power <profession name="soulbeast">
+- Power <profession name="dragonhunter"> (außer wenn Virtues oder Perfect Inscriptions gespielt wird)
+
+**Wenn du dir unsicher bist frag einfach die Spieler ob ihre Klasse <embed type="traits" id="1016" size="16"> benötigen.
+
+Einige Condi-Klassen können auch von Spotter profitieren: 
+- Condi <profession name="soulbeast"> dank <embed type="traits" id="1069" size="16">
+- Condi <profession name="berserker"> dank <embed type="traits" id="1346" size="16">
+- Condi <profession name="mirage"> dank <embed type="traits" id="710" size="16">
+- Condi <profession name="weaver"> dank <embed type="traits" id="296" size="16">
+- Condi <profession name="holosmith"> dank <embed type="traits" id="515" size="16">
+- Condi <profession name="scourge"> dank <embed type="traits" id="802" size="16">
