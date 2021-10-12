@@ -48,7 +48,7 @@ Zudem geben alle Spirits bei Reaktivierung der Fähigkeit Buffs für 10 Spieler 
 - <embed type="skills" id="12498" size="16"> kann genommen werden wenn ein Utility-Slot frei ist für mehr DPS, vorallem wenn Condi-Klassen dabei sind.
 - Du solltest <embed type="skills" id="12493" size="16"> nehmen wenn deinem Squad <boon name="fury"> oder Vulnerability fehlt. Vulnerability-Uptime zu korrigieren bringt mehr als die offensiven Spirits!
 - <embed type="skills" id="12495" size="16"> wird verwendet um <boon name="protection"> abzudecken. Diesen Spirit solltest du eigentlich immer mitnehmen außer jemand anderes übernimmt Protection (z.B. Tempest) oder Protection ist nicht nötig (z.B. Adina/Samarog/Gorseval)
-- Als Elite ist meist <embed type="skills" id="12569" size="16"> am besten. Bei Fights mit Condi-Bursts ist <embed type="skill" id="31677" size="16"> sehr praktisch. Sie kann verwendet werden um die <condition name="confusion"> bei KC, den <condition name="blind"> bei Zane oder die Condis vom Sloth-Shacke zu verhindern. Auch <embed type="skills" id="12580" size="16"> kann gut sein wenn <condition name="immobilized"> benötigt wird wie bei Escort oder Vale Guardian.
+- Als Elite ist meist <embed type="skills" id="12569" size="16"> am besten. Bei Fights mit Condi-Bursts ist <embed type="skill" id="31677" size="16"> sehr praktisch. Sie kann verwendet werden um die <condition name="confusion"> bei KC, den <condition name="blinded"> bei Zane oder die Condis vom Sloth-Shacke zu verhindern. Auch <embed type="skills" id="12580" size="16"> kann gut sein wenn <condition name="immobile"> benötigt wird wie bei Escort oder Vale Guardian.
 
 ## Spotter
 
