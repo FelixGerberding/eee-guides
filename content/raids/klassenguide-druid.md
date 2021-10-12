@@ -60,7 +60,7 @@ Alle Power-Klasse brauchen Spotter bis auf:
 - Power <profession name="soulbeast">
 - Power <profession name="dragonhunter"> (außer wenn Virtues oder Perfect Inscriptions gespielt wird)
 
-**Wenn du dir unsicher bist frag einfach die Spieler ob ihre Klasse <embed type="traits" id="1016" size="16"> benötigen.
+**Wenn du dir unsicher bist frag einfach die Spieler ob ihre Klassen <embed type="traits" id="1016" size="16"> benötigen.**
 
 Einige Condi-Klassen können auch von Spotter profitieren: 
 - Condi <profession name="soulbeast"> dank <embed type="traits" id="1069" size="16">
