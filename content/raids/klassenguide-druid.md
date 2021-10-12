@@ -69,3 +69,6 @@ Einige Condi-Klassen können auch von Spotter profitieren:
 - Condi <profession name="weaver"> dank <embed type="traits" id="296" size="16">
 - Condi <profession name="holosmith"> dank <embed type="traits" id="515" size="16">
 - Condi <profession name="scourge"> dank <embed type="traits" id="802" size="16">
+
+Trotzdem sollten immer zuerst die Power-Klassen Spotter erhalten! Sollte eine Klasse die eigentlich Spotter benötigt aus verschiedensten Gründen kein Spotter erhalten können, gib dieser Person Bescheid damit gegebenenfalls Gear oder Food angepasst werden können. Bis auf wenige Ausnahmen hast du als <profession name="druid"> Spotter überall dabei. Mehr zu den Ausnahmen findest du bei den einzelnen Bossen und bei den Traitlines.
+
