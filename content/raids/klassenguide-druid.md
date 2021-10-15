@@ -101,14 +101,14 @@ Wenn du **Marksmanship** statt **Skirmishing** läufst kannst du zusätzlich <em
 Da <profession name="druid"> durch Traits, Runen, Sigille und Food sehr viele Healing-Modifier hat ist <boon name="regeneration"> besonders wichtig und effektiv um dein Squad passiv am Leben zu halten und deinen <embed type="skills" id="31869" size="16"> aufzuladen. Bei 10 Spielern im Squad läd sich dein Avatar nur durch <boon name="regeneration"> um 15% pro Sekunde auf. Wenn mehrere Spieler <boon name="regeneration"> geben wird die mit der stärksten Heilung priorisiert. Um das zu erreichen ist es wichtig das so viele Healing-Modifier wie möglich aufrechterhalten werden.
 
 Healing-Modifier:
-| Quelle                                     | Modifier                                 |
-|--------------------------------------------|------------------------------------------|
-| <embed type="items" id="24842" id="16">    | 20%                                      |
-| <embed type="items" id="68634" id="16">    | 10%                                      |
-| <embed type="items" id="67528" id="16">    | 10%                                      |
-| <embed type="items" id="74326" id="16">    | ~17%                                     |
-| <embed type="traits" id="1992" id="16">    | 20%                                      |
-| **Gesamt**                                 | ~77%                                     |
+| Quelle                                       | Modifier                                 |
+|----------------------------------------------|------------------------------------------|
+| <embed type="items" id="24842" size="16">    | 20%                                      |
+| <embed type="items" id="68634" size="16">    | 10%                                      |
+| <embed type="items" id="67528" size="16">    | 10%                                      |
+| <embed type="items" id="74326" size="16">    | ~17%                                     |
+| <embed type="traits" id="1992" size="16">    | 20%                                      |
+| **Gesamt**                                   | **~77%**                                 |
 
 Skills die <boon name="regeneration"> geben:
 | Skill                                                                                               | Spieler                                 |
