@@ -92,7 +92,7 @@ Als Druid ist es deine Aufgabe 25 x <boon name="might"> auf deinem gesamten Squa
 
 Zudem musst du deine Subgroup, oder abhängig der Gruppenzusammenstellung dein gesamtes Squad, mit <boon name="fury"> versorgen. Deine <boon name="fury"> kommt hauptsächlich von <embed type="skills" id="12621" size="16"> mit den Traits <embed type="traits" id="964" size="16"> & <embed type="traits" id="1064" size="16">. Damit kannst du 100% <boon name="fury"> für deine Subgroup aufrecht erhalten.
 
-Wenn du aus verschiedensten Gründen ohne Warhorn spielst kannst du <embed type="traits" id="965" size="16"> statt <embed type="traits" id="964" size="16"> nehmen und dein Pet immer wechseln wenn möglich um ~80% <boon name="fury"> Uptime für deine Subgroup zu generieren. Solltest du keine andere <boon name="fury"> Quelle in deiner Subgroup haben kannst du die restlichen 20% mit dem **roten Moa** und <embed type="skills" id="1064" size="16"> oder <embed type="skills" id="12493" size="16"> abdecken. 
+Wenn du aus verschiedensten Gründen ohne Warhorn spielst kannst du <embed type="traits" id="965" size="16"> statt <embed type="traits" id="964" size="16"> nehmen und dein Pet immer wechseln wenn möglich um ~80% <boon name="fury"> Uptime für deine Subgroup zu generieren. Solltest du keine andere <boon name="fury"> Quelle in deiner Subgroup haben kannst du die restlichen 20% mit dem **roten Moa** und <embed type="skills" id="12712" size="16"> oder <embed type="skills" id="12493" size="16"> abdecken. 
 
 Wenn du **Marksmanship** statt **Skirmishing** läufst kannst du zusätzlich <embed type="traits" id="986" size="16"> verwenden für noch mehr <boon name="fury">.
 
