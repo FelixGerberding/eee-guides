@@ -74,7 +74,7 @@ Trotzdem sollten immer zuerst die Power-Klassen Spotter erhalten! Sollte eine Kl
 
 ## Boons
 
-Als Druid bist du nicht nur für Heilung und Spirits verantwortlich sondern auch für einige Boons für 5 oder 10 Spieler.
+Als Druid bist du nicht nur für Heilung und Spirits verantwortlich sondern auch für einige Boons für 5 oder 10 Spieler. Erkennen welche Boons benötigt werden und wie du sie am besten abdecken kannst ist sehr wichtig. Dieses Setup ist immer gruppenspezifisch und kann schwer generell angegeben werden. Es folgt eine kleine Übersicht über Boons und wo sie zu finden sind.  
 
 ### Might
 
