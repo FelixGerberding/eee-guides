@@ -25,29 +25,29 @@ Zum Suchen einfach `STRG` + `F` verwenden.
 
 ## Rollen
 
-| Abkürzung | Bedeutung           | Erklärung                                                                                               |
-|-----------|---------------------|---------------------------------------------------------------------------------------------------------|
-| `Alac`    | Alacrity            | Build der Alacrity für das Squad liefert (<profession name="mirage"> oder <profession name="renegade">) |
-| `AlacRen` | Alacrity Renegade   | <profession name="renegade"> der Alacrity für das Squad liefert                                         |
-| `BS`      | Banner Slave        | Krieger der mithilfe von Bannern Bonus-Stats für das Squad liefert                                      |
-| `BT`      | Boon Thief          | Dieb der mithilfe von <embed skills="49063"> Boons für 5 Spieler liefert                                |
-| `CDPS`    | Condition DPS       | Generelle Bezeichung für Builds die mit Hilfe von Zuständen Schaden verursachen                         |
-| `CFB`     | Condition Firebrand | **CDPS** Build für <profession name="firebrand">                                                        |
-| `cTank`   | Chronomancer Tank   | <profession name="chronomancer"> der Bosse tankt                                                        |
-| `DD`      | Daredevil           | <profession name="daredevil"> als DPS                                                                   |
-| `DH`      | Dragonhunter        | <profession name="dragonhunter"> als DPS                                                                |
-| `DPS`     | Damage per Second   | Schaden pro Sekunde - Ein Build dessen Hauptaufgabe Schaden ist                                         |
-| `dudu`    | Druid               | <profession name="druid"> als Heiler                                                                    |
-| `epi`     | Epidemic            | <profession name="scourge"> mit <embed type="skills" id="10606">                                        |
-| `hfb`     | Heal Firebrand      | <profession name="firebrand"> als Heiler, meist zusätzlich zum <professsion name="druid">               |
-| `hk`      | Hand Kite           | Build der die Hände-Mechanik bei Raidboss Deimos kited.                                                 |
-| `holo`    | Holosmith           | <profession name="holosmith">, meist als DPS                                                            |
-| `HSc`     | Heal Scourge        | <profession name="scourge"> der mithilfe von <embed type="skills" id="778"> Spieler rezzt               |
-| `Miralac` | Alacrity Mirage     | <profession name="mirage"> der Alacrity für das Squad liefert                                           |
-| `qFB`     | Quickness Firebrand | Condi <profession name="firebrand"> der <boon name="quickness"> für das Squad liefert liefert           |
-| `RR`      | Righteous Rebel     | Condi <profession name="renegade"> der mit <embed type="skills" id="2182"> ~60% Alacrity liefert.       |
-| `Slb`     | Soulbeast           | <profession name="soulbeast"> als DPS                                                                   |
-| `Spb`     | Spellbreaker        | <profession name="spellbreaker">, meist mit Bannern und <embed type="skills" id="45333"> für Qadim      |
+| Abkürzung | Bedeutung           | Erklärung                                                                                                    |
+|-----------|---------------------|--------------------------------------------------------------------------------------------------------------|
+| `Alac`    | Alacrity            | Build der Alacrity für das Squad liefert (<profession name="mirage"> oder <profession name="renegade">)      |
+| `AlacRen` | Alacrity Renegade   | <profession name="renegade"> der Alacrity für das Squad liefert                                              |
+| `BS`      | Banner Slave        | Krieger der mithilfe von Bannern Bonus-Stats für das Squad liefert                                           |
+| `BT`      | Boon Thief          | Dieb der mithilfe von <embed skills="49063"> Boons für 5 Spieler liefert                                     |
+| `CDPS`    | Condition DPS       | Generelle Bezeichung für Builds die mit Hilfe von Zuständen Schaden verursachen                              |
+| `CFB`     | Condition Firebrand | **CDPS** Build für <profession name="firebrand">                                                             |
+| `cTank`   | Chronomancer Tank   | <profession name="chronomancer"> der Bosse tankt                                                             |
+| `DD`      | Daredevil           | <profession name="daredevil"> als DPS                                                                        |
+| `DH`      | Dragonhunter        | <profession name="dragonhunter"> als DPS                                                                     |
+| `DPS`     | Damage per Second   | Schaden pro Sekunde - Ein Build dessen Hauptaufgabe Schaden ist                                              |
+| `dudu`    | Druid               | <profession name="druid"> als Heiler                                                                         |
+| `epi`     | Epidemic            | <profession name="scourge"> mit <embed type="skills" id="10606" size="16">                                   |
+| `hfb`     | Heal Firebrand      | <profession name="firebrand"> als Heiler, meist zusätzlich zum <professsion name="druid">                    |
+| `hk`      | Hand Kite           | Build der die Hände-Mechanik bei Raidboss Deimos kited.                                                      |
+| `holo`    | Holosmith           | <profession name="holosmith">, meist als DPS                                                                 |
+| `HSc`     | Heal Scourge        | <profession name="scourge"> der mithilfe von <embed type="traits" id="778" size="16"> Spieler rezzt          |
+| `Miralac` | Alacrity Mirage     | <profession name="mirage"> der Alacrity für das Squad liefert                                                |
+| `qFB`     | Quickness Firebrand | Condi <profession name="firebrand"> der <boon name="quickness"> für das Squad liefert liefert                |
+| `RR`      | Righteous Rebel     | Condi <profession name="renegade"> der mit <embed type="traits" id="2182" size="16"> ~60% Alacrity liefert.  |
+| `Slb`     | Soulbeast           | <profession name="soulbeast"> als DPS                                                                        |
+| `Spb`     | Spellbreaker        | <profession name="spellbreaker">, meist mit Bannern und <embed type="skills" id="45333" size="16"> für Qadim |
 
 ## Bosse
 
