@@ -11,17 +11,18 @@ Zum Suchen einfach `STRG` + `F` verwenden.
 
 ## Basics
 
-| Abkürzung | Bedeutung          | Erklärung                                                                      |
-|-----------|--------------------|--------------------------------------------------------------------------------|
-| `CC`      | Crowd Control      | Effekte wie Stun, Knockback oder Daze, mehr Info [hier](https://breakbar.info) |
-| `CM`      | Challenge Mode     | Herausforderungsmodus des jeweiligen Bosses.                                   |
-| `EXP`     | Experienced        | Diese Gruppe sucht nach erfahrenen Spielern                                    |
-| `FC`      | Full Clear         | Clear von allen Bossen eines Wings                                             |
-| `KP`      | Killproof          | Beweis für einen spezifischen Bosskill, mehr Info hier.                        |
-| `LI`      | Legendary Insights | Beweis für einen generellen Bosskill, mehr Info hier.                          |
-| `Static`  | Stammgruppe        | Diese Gruppe sucht Spieler für feste, gleichbleibende Raidtermine              |
-| `W1`/`W2` | Wing1 / Wing2      | Ein spezieller Raid-Wing                                                       |
-| `W1B2`    | Boss 2 von Wing 1  | Ein spezieller Boss eines speziellen Wings                                     |
+| Abkürzung | Bedeutung          | Erklärung                                                                                       |
+|-----------|--------------------|-------------------------------------------------------------------------------------------------|
+| `CC`      | Crowd Control      | Effekte wie Stun, Knockback oder Daze, mehr Info [hier](https://breakbar.info).                 |
+| `CM`      | Challenge Mode     | Herausforderungsmodus des jeweiligen Bosses                                                     |
+| `EXP`     | Experienced        | Diese Gruppe sucht nach erfahrenen Spielern                                                     |
+| `FC`      | Full Clear         | Clear von allen Bossen eines Wings                                                              |
+| `KP`      | Killproof          | Beweis für einen spezifischen Bosskill, mehr Info hier                                          |
+| `LI`      | Legendary Insights | Beweis für einen generellen Bosskill, mehr Info hier                                            |
+| `Static`  | Stammgruppe        | Diese Gruppe sucht Spieler für feste, gleichbleibende Raidtermine                               |
+| `SAK`     | Special action key | Zusätzliche Fähigkeiten, die bei bestimmten Kämpfen über der Fähigkeitsleiste erscheinen können |
+| `W1`/`W2` | Wing1 / Wing2      | Ein spezieller Raid-Wing                                                                        |
+| `W1B2`    | Boss 2 von Wing 1  | Ein spezieller Boss eines speziellen Wings                                                      |
 
 ## Rollen
 
@@ -31,7 +32,7 @@ Zum Suchen einfach `STRG` + `F` verwenden.
 | `AlacRen` | Alacrity Renegade   | <profession name="renegade"> der Alacrity für das Squad liefert                                                              |
 | `BS`      | Banner Slave        | Krieger der mithilfe von Bannern Bonus-Stats für das Squad liefert                                                           |
 | `BT`      | Boon Thief          | Dieb der mithilfe von <embed skills="49063"> Boons für 5 Spieler liefert                                                     |
-| `CDPS`    | Condition DPS       | Generelle Bezeichung für Builds die mit Hilfe von Zuständen Schaden verursachen                                              |
+| `cDPS`    | Condition DPS       | Generelle Bezeichung für Builds die mit Hilfe von Zuständen Schaden verursachen                                              |
 | `CFB`     | Condition Firebrand | **CDPS** Build für <profession name="firebrand">                                                                             |
 | `cTank`   | Chronomancer Tank   | <profession name="chronomancer"> der Bosse tankt                                                                             |
 | `DD`      | Daredevil           | <profession name="daredevil"> als DPS                                                                                        |
@@ -44,6 +45,7 @@ Zum Suchen einfach `STRG` + `F` verwenden.
 | `holo`    | Holosmith           | <profession name="holosmith">, meist als DPS                                                                                 |
 | `HSc`     | Heal Scourge        | <profession name="scourge"> der mithilfe von <embed type="traits" id="778" size="16" color="necromancer"> Spieler rezzt      |
 | `Miralac` | Alacrity Mirage     | <profession name="mirage"> der Alacrity für das Squad liefert                                                                |
+| `pDPS`    | Power DPS           | Generelle Bezeichung für Builds die mit Hilfe von Direktschaden Schaden verursachen                                          |
 | `qFB`     | Quickness Firebrand | Condi <profession name="firebrand"> der <boon name="quickness"> für das Squad liefert liefert                                |
 | `RR`      | Righteous Rebel     | Condi <profession name="renegade"> der mit <embed type="traits" id="2182" size="16" color="revenant"> ~60% Alacrity liefert. |
 | `Slb`     | Soulbeast           | <profession name="soulbeast"> als DPS                                                                                        |
@@ -55,7 +57,7 @@ Zum Suchen einfach `STRG` + `F` verwenden.
 |---------------|---------------------------|------------------------------|
 | `VG`          | Vale Guardian             | Wing 1 -  Boss 1             |
 | `Gors`        | Gorseval the Multifarious | Wing 1 -  Boss 2             |
-| `Sab`         | Sabetha the Saboteur      | Wing 1 -  Boss 3 (Endboss)   |
+| `Sab`         | Sabetha the Saboteur      | Wing 1 -  Boss 3             |
 | `Sloth`       | Slothasor                 | Wing 2 -  Boss 1             |
 | `Trio`        | Bandit Trio               | Wing 2 -  Boss 2 (Encounter) |
 | `Matt`        | Matthias Gabrel           | Wing 2 -  Boss 3             |
