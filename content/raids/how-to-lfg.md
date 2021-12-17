@@ -5,9 +5,19 @@ description: 'Das LFG in Guild Wars 2 ist teilweise nicht wirklich selbsterklär
 hidden: false
 ---
 
+Zum Suchen einfach `STRG` + `F` verwenden.
+
 # Raids
 
-Zum Suchen einfach `STRG` + `F` verwenden.
+Viele PUG-Gruppen suchen im LFG nach **KP** oder <embed type="items" id="77302"> (LI). Diese werden von der Community als Beweis für Erfahrung in den Raids verlangt.
+
+Jeder Raidboss in Wing 1 bis 4 droppt eine <embed type="items" id="77302"> (LI) einmal in der Woche. Wenn du einer Gruppe betrittst die nach <embed type="items" id="77302"> (LI) sucht, spamme deine <embed type="items" id="77302"> (LI) via STRG & Klick auf das Item in den Chat. LI solltet ihr aufgeheben! Die sind nicht nur für die Gruppensuche sehr wichtig sondern werden auch zur Herstellung der Legendären Raid-Rüstung verwendet!
+
+LD funktioneren genauso wie LI, nur das Sie von Bossen in Wing 5 bis 7 gedroppt werden. Sie werden für ebenfalls für die Gruppensuche oder das Crafting des Legendären Rings 'Coalesence' verwendet. Sie können auch zu LI umgetauscht werden, dies ist allerdings eher selten zu empfehlen. 
+
+Zudem wird häufig nach **KP** gesucht. Eigentlich handelt es sich bei KP um Dekoration für die Gildenhalle, wie im Ingame-Text auch vermerkt ist, allerdings werden diese von der Community als Beweis für Erfarhung bei einem Boss verlangt. Jeder Raidboss droppt eine zufällige Anzahl (zwischen 1 und 5) an speziellen KPs, wie LI und LD auch nur einmal in der Woche. Zudem hat jeder Boss hat seine eigenen KPs, sodass man anhand der KPs abschätzen kann wie oft ein Spieler einen Boss getötet hat.
+
+Überlicherweise wird beim Beitritt in eine Gruppe die entsprechende Rolle(n) die man Spielen möchte geschrieben und danach die KP/LI gepingt.
 
 ## Basics
 
