@@ -1,6 +1,6 @@
 ---
 title: 'How to LFG - Raids & Fraktale'
-image: 'https://i.imgur.com/WIjWOso.jpeg'
+image: '/images/raids/how-to-lfg/thumbnail.jpeg'
 description: 'Das LFG in Guild Wars 2 ist teilweise nicht wirklich selbsterklärend. Hier ein kleine Übersicht was welche Abkürzungen im LFG bedeuten.'
 hidden: false
 ---
