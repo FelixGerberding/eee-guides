@@ -1,6 +1,6 @@
 ---
 title: 'How to LFG - Raids & Fraktale'
-image: 'https://i.imgur.com/MfuqRJh.jpeg'
+image: 'https://i.imgur.com/WIjWOso.jpeg'
 description: 'Das LFG in Guild Wars 2 ist teilweise nicht wirklich selbsterklärend. Hier ein kleine Übersicht was welche Abkürzungen im LFG bedeuten.'
 hidden: false
 ---
@@ -11,7 +11,7 @@ Zum Suchen in der Abkürzungsliste einfach `STRG` + `F` verwenden!
 
 Viele PUG-Gruppen suchen im LFG nach KillProof (**KP**) oder <embed type="items" id="77302" size="16"> (**LI**). Diese werden von der Community als Beweis für Erfahrung in den Raids verlangt.
 
-Jeder Raidboss in Wing 1 bis 4 droppt eine <embed type="items" id="77302"> einmal in der Woche. Wenn du einer Gruppe betrittst die nach <embed type="items" id="77302" size="16"> sucht, spamme deine <embed type="items" id="77302" size="16"> via STRG & Klick auf das Item in den Chat. LI solltet ihr aufgeheben! Die sind nicht nur für die Gruppensuche sehr wichtig sondern werden auch zur Herstellung der Legendären Raid-Rüstung verwendet!
+Jeder Raidboss in Wing 1 bis 4 droppt eine <embed type="items" id="77302" size="16"> einmal in der Woche. Wenn du einer Gruppe betrittst die nach <embed type="items" id="77302" size="16"> sucht, spamme deine <embed type="items" id="77302" size="16"> via STRG & Klick auf das Item in den Chat. LI solltet ihr aufgeheben! Die sind nicht nur für die Gruppensuche sehr wichtig sondern werden auch zur Herstellung der Legendären Raid-Rüstung verwendet!
 
 <embed type="items" id="88485" size="16"> funktioneren genauso wie LI, nur das Sie von Bossen in Wing 5 bis 7 gedroppt werden. Sie werden für ebenfalls für die Gruppensuche oder das Crafting des Legendären Rings 'Coalesence' verwendet. Sie können auch zu LI umgetauscht werden, dies ist allerdings eher selten zu empfehlen. 
 
