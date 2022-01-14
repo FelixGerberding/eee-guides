@@ -1,6 +1,6 @@
 ---
 title: 'Rotations in Conquest PvP '
-image: 'https://i.imgur.com/nH5rowC.jpeg'
+image: 'https://i.imgur.com/YLDqrej.jpeg'
 description: 'Um Eroberung (Conquest) so effektiv wie möglich zu spielen sind richtige Rotations und Zeitmanagement sehr wichtig. In diesem Artikel erklären wir euch die Basics.'
 hidden: false
 ---
