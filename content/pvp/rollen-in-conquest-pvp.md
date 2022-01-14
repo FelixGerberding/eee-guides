@@ -13,19 +13,9 @@ Eroberung ist ein Spielmodus, der auf eine Reihe verschiedener Spielstile angewi
 
 ## Support
 
-Aufgabe eines Supports ist es seine Verbündeten solange wie möglich am Leben zu halten damit diese ihre entsprechenden Aufgaben optimal ausführen können. Supports verfügen meist über verschiedene Möglichkeiten das Team am Leben zu halten:
+Aufgabe eines Supports ist es seine Verbündeten solange wie möglich am Leben zu halten damit diese ihre entsprechenden Aufgaben optimal ausführen können. Supports verfügen meist über verschiedene Möglichkeiten das Team am Leben zu halten. Heilung & Barriere von Supportern hilft anderen Teammitgliedern sich schneller von erhaltenem Schaden zu erholen und wieder am Geschehen teilzunehmen oder Bursts zu verhindern. Boons wie <boon name="protection"/> und <boon name="aegis"/> helfen eingehenden Schaden zu verringern, <boon name="stability"> kann Verbündeten ebenfalls beim Überleben helfen.
 
-### Heilung
-Recht simpel, Heilung & Barriere von Supportern hilft anderen Teammitgliedern sich schneller von erhaltenem Schaden zu erholen und wieder am Geschehen teilzunehmen oder Bursts zu verhindern.
-
-### Boons
-Boons wie <boon name="protection"/> und <boon name="aegis"/> helfen eingehenden Schaden zu verringern, <boon name="stability"> kann Verbündeten ebenfalls beim Überleben helfen.
-
-### Crowd Control 
-Gegner mithilfe von CC davon abhalten deine Verbündeten anzugreifen oder Combos zu ermöglichen ist ein weiterer Weg wie du als Support deinem Team aushelfen kannst.
-
-### Wiederbelebung
-Manchmal kannst du einen Teammate nicht am Leben halten und er geht in den Downed-State. Mit Fähigkeiten wie <embed type="skills" id="9163" size="16"> kannst du Teammitgleider sofort wieder aufheben und den Kampf weiterführen.
+Gegner mithilfe von CC davon abhalten deine Verbündeten anzugreifen oder Combos zu ermöglichen ist ein weiterer Weg wie du als Support deinem Team aushelfen kannst. Manchmal kannst du einen Teammate nicht am Leben halten und er geht in den Downed-State. Mit Fähigkeiten wie <embed type="skills" id="9163" size="16"> kannst du Teammitgleider sofort wieder aufheben und den Kampf weiterführen.
 
 Ein häufiger Fehler für Support-Spieler ist das Sie selbst für ihre Teammitglieder sterben. Das sollte nie passieren. Manchmal kannst du einen Spieler nicht retten und ein **Disengage** ist nötig.
 
@@ -33,17 +23,7 @@ Ein häufiger Fehler für Support-Spieler ist das Sie selbst für ihre Teammitgl
 
 Teamfighter sind grundsätzlich eher auf einen Support angewiesen als andere Rollen und fühlen sich in größeren Fights wohl. Ihre Aufgabe ist es in einem Teamfight Druck auf das gegnerische Team auszuüben. **Herald** und **Scourge** sind werden häufig als DPS gespielt, es gibt allerdings viele Varianten. Als Teamfighter ist besonders wichtig: 
 
-### Target Focus
-Wenn im Teamfight ein Target ausgerufen wird ist es dein Job durchgängig soviel Druck wie Möglich auf dieses auszuüben ohne dabei selbst draufzugehen.
-
-### Kein Tunnelblick!
-Wechsle das Ziel wenn du ohne Erfolg zuviel Zeit in einen Gegner investierst. Achte auf deine Umgebung, dein Team und die Gegner.
-
-### Rotiere zum Teamfight
-Verschwende deine Zeit nicht bei Kämpfen wo dein Team in der Überzahl ist, das ist meist Zeitverschwendung. Du könntest währenddessen anderswo Kills holen.
-
-### Achte auf deinen Support
-Renn nicht vor deinem Supporter weg. Bleib in seiner Nähe und probiere euch nicht durch waghalsige Aktionen in Gefahr zu bringen. 
+Wenn im Teamfight ein Target ausgerufen wird ist es dein Job durchgängig soviel Druck wie Möglich auf dieses auszuüben ohne dabei selbst draufzugehen. Wechsle das Ziel wenn du ohne Erfolg zuviel Zeit in einen Gegner investierst. Achte auf deine Umgebung, dein Team und die Gegner. Verschwende deine Zeit nicht bei Kämpfen wo dein Team in der Überzahl ist, das ist meist Zeitverschwendung. Du könntest währenddessen anderswo Kills holen. Renn nicht vor deinem Supporter weg. Bleib in seiner Nähe und probiere euch nicht durch waghalsige Aktionen in Gefahr zu bringen. 
 
 Wenn du aktuell keinen Heiler an deiner Seite hast musst du besonders vorsichtig dem gegnerischen Team gegenüber sein. Sterben ist das schlechteste was du für dein Team tun kannst!
 
