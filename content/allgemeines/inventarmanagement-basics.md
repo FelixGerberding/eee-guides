@@ -1,6 +1,6 @@
 ---
 title: 'Inventarmanagement Basics'
-image: 'https://i.imgur.com/hbEiMZ5.jpg'
+image: '/images/allgemeines/inventarmanagement-basics/thumbnail.jpeg'
 description: 'Hier findest du Tipps und Tricks rund um Inventartaschen, Schrottitems und Wiederverwertung.'
 hidden: false
 ---
@@ -15,7 +15,7 @@ In Guild Wars 2 gibt es viele kleine Tricks die dir deinen Abenteurer-Alltag mas
 
 Wenn du ganz neu bist und dir einen Charakter erstellst sollte dein Inventar ungefähr so aussehen. Auf der linken Seite kannst du **Inventartaschen** einfügen die dann deinen Inventarplatz vergrößern. Standardmäßig kannst du 5 Inventartaschen ausrüsten.
 
-![Leeres Inventar](https://i.imgur.com/NuuW7D8.jpeg "Inventar eines neuen Charakters")
+![Leeres Inventar](/images/allgemeines/inventarmanagement-basics/empty-inventory.jpeg "Inventar eines neuen Charakters")
 
 Sobald es sich anbietet empfielt es sich mit etwas Gold zu einem Vertreter der Schwarzlöwen-Handelsgesellschaft, eine Art Auktionshaus für Handel zwischen Spielern, zu gehen und dort in der gleichnamigen Kategorie ein paar Inventartaschen zu kaufen. Du kannst die Taschen von überall kaufen, sie können allerdings nur bei einem NPC der Schwarzlöwen-Handelsgesellschaft angeholt werden. Diese findet man in jeder Stadt.
 
@@ -44,3 +44,5 @@ Bei den meisten Händlern können Items verkauft werden. In Verkauf-Menü gibt e
 Die meisten Items können auch via Rechtsklick im <tooltip text="Handelsposten" title="Schwarzlöwen-Handelsgesellschaft"> an andere Spieler verkauft werden. Meist ist dies lukrativer als ein Verkauf an einen Händler-NPC. Zudem kann von überall im Handelsposten verkauft werden, allerdings muss der Erlös dann bei einem NPC abgeholt werden. Beim Verkauf im Handelsposten kannst du ein Item immer entweder sofort verkaufen (linke Spalte) oder zum Verkauf anbieten (rechte Spalte). Bei den meisten Items lohnt es sich das Item zum Verkauf anzubieten statt sofort zu verkaufen, wenn du etwas auf dein Gold warten kannst. 
 
 Bedenke hierbei das der im Handelsposten angezeigte Preis noch nicht die <tooltip text="Handelspostengebühr von 15%" title="5% Listengebühr, bei Verkauf 10% Transaktionsgebühr"> beinhaltet.
+  
+<alert color="red" icon="❗" text="Dieser Artikel ist noch in Arbeit! Der Rest folgt bald.">

@@ -56,3 +56,5 @@ Am Golem kannst du aber nicht nur deine Rotation üben, du kannst auch gucken, i
 ## Team-Aufstellungen
 
 Jetzt bist du selbst vorbereitet, aber ist es deine Gruppe auch? Wie bereit erwähnt sollte eine Gruppe immer gewisse Rollen abdecken um effektiv zu sein. Hier lernst du was du beachten solltest! 
+
+<alert color="red" icon="❗" text="Dieser Artikel ist noch in Arbeit! Der Rest folgt bald.">
