@@ -16,7 +16,7 @@ Die Fraktale der Nebel, auch oft <tooltip text="FOTM" title="Fractals of the Mis
 | T1   | 17   | 1              | Diese Stufe ist als Einführung in Fraktale gedacht. Mechaniken und Schaden sind sehr nachsichtig.                                                                                                                                            |
 | T2   | 61   | 1              | Tier 2 Fraktale sollten in einer Gruppe mit 5 gespielt werden. Die Mechaniken werden härter und du triffst auf Mistlock-Instabilitäten und Qual.                                                                                             |
 | T3   | 106  | 2              | Sobald du dich in Tier 3 Fraktale begibst solltest du anfangen dich damit auseinanderzusetzen wie genau deine Klasse in den Fraktalen funktioniert. Gegner werden häufiger, stärker und zu musst mit 2 Instabilitäten auf einmal klarkommen. |
-| T4   | 150  | 3              | Für Tier 4 Fraktale solltest du deine Klasse und die Mechaniken der Fraktale gut kennen. Zudem setzen die meisten Gruppen Buff-Food und Fraktaltränke vorraus                                                                                |
+| T4   | 150  | 3              | Für Tier 4 Fraktale solltest du deine Klasse und die Mechaniken der Fraktale gut kennen. Zudem setzen die meisten Gruppen Buff-Food und [Fraktaltränke](#Fraktal-Tranke) vorraus                                                                                |
 
 Je höher das Level desto mehr Mechaniken werden hinzugefügt und Gegner verursachen mehr Schaden. Dafür gibt es natürlich auch bessere Belohnungen. Ab Level 20 tritt Qual auf. Qual ist ein Debuff der konstant Schaden abhängig deiner maximalen Lebenspunkte verursacht und nur mit Qualresistenz (engl. Agony Resistance) abgeschwächt werden kann. Höhere Fraktalstufen sind ohne <tooltip text="AR" title="Agony Resistance"> nicht zugänglich. Jede Fraktalstufe hat eine eigenen eigenen empfohlenen Wert an AR. 
 
@@ -77,6 +77,6 @@ In Fraktalen gibt es spezielle Tränke die beeinflussen was für Builds gespielt
 - Bleibe immer bei deinem Team für Boons & Heilung
 - Nimm dir die Zeit deinen Build zu verstehen
 - Teile deinem Team mit das du neu in Fraktalen bist
-- Schau auf (discretize.eu)[https://discretize.eu] vorbei für mehr Details & Builds!
+- Schau auf [discretize.eu](https://discretize.eu) vorbei für mehr Details & Builds!
 
 Viel Spaß in den Fraktalen! 
