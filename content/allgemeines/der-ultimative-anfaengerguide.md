@@ -11,43 +11,33 @@ hidden: false
 
 ## Build-Seiten
 
-[Snowcrows.com](https://snowcrows.com/) - Builds für Raids
-
-[Discretize.eu](https://discretize.eu/) - Builds für Fraktale
-
-[gw2mists.com](https://gw2mists.com/builds) - Builds für WvW
-
-[Metabattle.com](https://metabattle.com) - Generelle Builds für Open World
+[Snowcrows.com](https://snowcrows.com/) - Builds für Raids  
+[Discretize.eu](https://discretize.eu/) - Builds für Fraktale  
+[gw2mists.com](https://gw2mists.com/builds) - Builds für WvW  
+[Metabattle.com](https://metabattle.com) - Generelle Builds für Open World  
 
 ## Crafting-Links
 
-[GW2Crafts.net](https://gw2crafts.net/) - Automatische Crafting-Guides
-
-[GW2Efficiency](https://gw2efficiency.com/crafting/calculator) - Rechner für Craftingspreise und Profite
+[GW2Crafts.net](https://gw2crafts.net/) - Automatische Crafting-Guides  
+[GW2Efficiency](https://gw2efficiency.com/crafting/calculator) - Rechner für Craftingspreise und Profite  
 
 ## Trading-Links
 
-[GW2BLTC](https://www.gw2bltc.com/) - Datenbank und Filter für den Handelsposten
-
-[GW2TP](https://www.gw2tp.com/) - Ebenfalls ein Trading-Tool
-
-[gw2spidy](https://www.gw2spidy.com/) - Ebenfalls ein Trading-Tool
+[GW2BLTC](https://www.gw2bltc.com/) - Datenbank und Filter für den Handelsposten  
+[GW2TP](https://www.gw2tp.com/) - Ebenfalls ein Trading-Tool  
+[gw2spidy](https://www.gw2spidy.com/) - Ebenfalls ein Trading-Tool  
 
 ## Utility-Seiten
 
-[GW2Efficiency](https://gw2efficiency.com/) - **Das ultimative Gw2-Tool**
-
-[Event-Timer](https://wiki.guildwars2.com/wiki/Event_timers) - Timer für Open World Events
-
-[gw2lunchbox.com](http://gw2lunchbox.com/) - Verschiedenste API-Tools
+[GW2Efficiency](https://gw2efficiency.com/) - **Das ultimative Gw2-Tool**  
+[Event-Timer](https://wiki.guildwars2.com/wiki/Event_timers) - Timer für Open World Events  
+[gw2lunchbox.com](http://gw2lunchbox.com/) - Verschiedenste API-Tools  
 
 ## Guide-Seiten
 
-[Dulfy.net](https://dulfy.net) - Achievment & Storyguides (Inaktiv)
-
-[Wiki-FAQ](https://wiki.guildwars2.com/wiki/Frequently_Asked_Questions) - FAQ des Wikis
-
-[Handbuch für neue Spieler](https://www.guildwars2.com/de/new-player-guide) - Offizieller Guide für neue Spieler von ArenaNet
+[Dulfy.net](https://dulfy.net) - Achievment & Storyguides (Inaktiv)  
+[Wiki-FAQ](https://wiki.guildwars2.com/wiki/Frequently_Asked_Questions) - FAQ des Wikis  
+[Handbuch für neue Spieler](https://www.guildwars2.com/de/new-player-guide) - Offizieller Guide für neue Spieler von ArenaNet  
 
 # Los geht's
 
