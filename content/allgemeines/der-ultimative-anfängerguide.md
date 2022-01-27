@@ -82,3 +82,13 @@ Wenn du versuchst, einen neuen Charakter schnell zu leveln, solltest du vor alle
 Wenn du kannst, solltest du versuchen, ein paar XP-Boni zu bekommen, da sie das Leveln sehr beschleunigen. Ich empfehle dir zumindest Food, Utility und Gilden-XP-Boost, da sie leicht zu bekommen sind. Die vollständige Liste findest du [hier](https://wiki.guildwars2.com/wiki/Experience#Experience_modifiers).
 
 In GW2 kannst du zwei verschiedene Arten von Verbrauchsgütern gleichzeitig aktiv haben: Nahrung (Food) und Gebrauchsgegenstände (Utility). Wenn du Nahrung oder Gebrauchsgegenstände verwendest, während einer davon aktiv ist, wird er durch den neuen ersetzt. Du kannst die unten aufgelisteten Nahrungs- und Gebrauchsgegenstände am Handelsposten kaufen, wie im Abschnitt Start oben beschrieben. Für Nahrung gibt es normalerweise +10% Erfahrung durch Kills, aber es gibt auch einige Optionen, die 15% geben. Hilfsmittel geben normalerweise 10% durch Kills.
+
+| Item                            | Level | Preis              |
+|---------------------------------|-------|--------------------|
+| <embed type="items" id="8525">  | 0     | <price id="8525">  |
+| <embed type="items" id="36074"> | 10    | <price id="36074"> |
+| <embed type="items" id="36076"> | 25    | <price id="36076"> |
+| <embed type="items" id="36077"> | 45    | <price id="36077"> |
+| <embed type="items" id="36080"> | 55    | <price id="36080"> |
+
+Als Utility kannst du einfach <embed type="items" id="9464"> für <price id="9464"> verwenden.
