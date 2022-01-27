@@ -58,6 +58,7 @@ hidden: true
 | `<gold value="999999">` | <gold value="999999"> |
 | `<gold value="1400">`   | <gold value="1400">   |
 | `<gold value="41">`     | <gold value="41">     |
+| `<price id="19684">`    | <gold value="19684">  |
 
 ## Stats
 
