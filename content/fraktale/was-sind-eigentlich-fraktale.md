@@ -52,7 +52,7 @@ Es gibt 2 Arten von sich täglich ändernen Fraktalen mit zusätzlicher Belohnun
 
 In Fraktalen kann der Chat-Command `/gg` verwendet werden um deinen Charakter sofort zu töten. Dies kann verwendet werden um einen Boss nach einem Fail schneller neuzustarten oder um als Gruppe an einem Checkpoint zu respawnen nachdem ein Spieler diesen erreicht hat. Sollte also jemand "gg" in den Chat schreiben oder du bei einem Boss als einziger noch übrig sein obwohl der Boss noch lange nicht tot ist, verwende `/gg`. Wenn alle Spieler einer Gruppe tot sind werden die Cooldowns beim Respawn komplett zurückgesetzt.
 
-<alert color="red" icon="❗" text="Solange ein spielen noch im Kampf ist kann die Gruppe nich respawnen. `/gg` ermöglicht einen schnellen Tod!">
+<alert color="red" icon="❗" text="Solange ein spielen noch im Kampf ist, kann die Gruppe nich respawnen. `/gg` ermöglicht einen schnellen Tod!">
 
 # Fraktal-Masteries
 
