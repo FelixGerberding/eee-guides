@@ -31,7 +31,7 @@ Dies führt unweigerlich zu einer **META** oder einem "besten" Weg die Encounter
 
 Es gibt zwar keine festen Regeln oder Dinge, die du mitbringen musst, um einen Encounter zu schaffen, aber wenn du herausfinden, wie dein Charakter die Gruppe am besten unterstützen kann können Fraktale angenehmer und zufriedenstellender werden, sowohl für dich als auch für dein Team.
 
-<alert color="red" icon="❗" text=" Wenn du mehr über deine Klasse und was du deinem Team mitbringen kannst lernen willst empfielt sich ebenfalls die Website von **Discretize**: [What should I play?](https://discretize.eu/guides/what-should-i-play/) (Englisch).">
+<alert color="red" icon="❗" text=" Wenn du mehr über deine Klasse und was du deinem Team mitbringen kannst lernen willst empfielt sich ebenfalls die Website von Discretize: (https://discretize.eu/guides/what-should-i-play/).">
 
 
 # Dailies & Recs
@@ -42,7 +42,7 @@ Es gibt 2 Arten von sich täglich ändernen Fraktalen mit zusätzlicher Belohnun
 
 <tooltip text="CC" title="Crowd Control">, also Fähigkeiten die deinen Gegner stunnen, wegschleudern oder ähnliches, sind in Fraktalen sehr wichtig. Unter Bossen taucht oft eine blaue Breakbar auf. Wenn die Breakbar gebrochen wird werden die Angriffe des Bosses unterbrochen und er erhält für kurze Zeit deutlich mehr Schaden. Im Optimalfall will man die Breakbar schnell brechen und dann soviel Schaden wie Möglich in kurzer Zeit austeilen. Jedes Teammitglied sollte zum brechen der Breakbar beitragen. Um mehr über Breakbars und die CC-Möglichkeiten verschiedenster Klassen zu erfahren, besuche unsere Seite zum Thema unter [breakbar.info](https://breakbar.info). 
 
-<alert color="red" icon="❗" text="Eine Breakbar schnell zu brechen ist massgebend und trägt maßgeblich zum Erfolg der Gruppe bei, selbst in Gruppen ohne guten DPS!>
+<alert color="red" icon="❗" text="Eine Breakbar schnell zu brechen ist massgebend und trägt maßgeblich zum Erfolg der Gruppe bei, selbst in Gruppen ohne guten DPS!">
   
 # Stacking 
 
@@ -52,7 +52,7 @@ Es gibt 2 Arten von sich täglich ändernen Fraktalen mit zusätzlicher Belohnun
 
 In Fraktalen kann der Chat-Command `/gg` verwendet werden um deinen Charakter sofort zu töten. Dies kann verwendet werden um einen Boss nach einem Fail schneller neuzustarten oder um als Gruppe an einem Checkpoint zu respawnen nachdem ein Spieler diesen erreicht hat. Sollte also jemand "gg" in den Chat schreiben oder du bei einem Boss als einziger noch übrig sein obwohl der Boss noch lange nicht tot ist, verwende `/gg`. Wenn alle Spieler einer Gruppe tot sind werden die Cooldowns beim Respawn komplett zurückgesetzt.
 
-<alert color="red" icon="❗" text="Solange ein spielen noch im Kampf ist kann die Gruppe nich respawnen. `/gg` ermöglicht einen schnellen Tod! >
+<alert color="red" icon="❗" text="Solange ein spielen noch im Kampf ist kann die Gruppe nich respawnen. `/gg` ermöglicht einen schnellen Tod!">
 
 # Fraktal-Masteries
 
