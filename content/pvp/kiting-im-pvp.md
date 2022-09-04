@@ -1,5 +1,5 @@
 ---
-title: 'Kiting in PvP/WvW'
+title: 'Kiting in PvP und WvW'
 image: 'https://i.imgur.com/nH5rowC.jpeg'
 description: 'Kiting ist essentiell um im PvP/WvW zu überleben. Hier erklären wir euch alles was ihr wissen müsst.'
 hidden: false

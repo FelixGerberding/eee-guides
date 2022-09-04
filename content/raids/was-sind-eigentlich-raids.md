@@ -1,8 +1,9 @@
 ---
 title: 'Was sind eigentlich Raids?'
 image: 'https://i.imgur.com/MfuqRJh.jpeg'
-description: 'Was sind Raids? Für wen ist das was? Und wie fängt man damit an?'
+description: 'Was sind Raids? Für wen ist das was? Und wie fängt man damit an? Dieser Guide gibt dir einen Überblick über Raids in Guild Wars 2'
 hidden: false
+priority: 1
 ---
 
 [[toc]]

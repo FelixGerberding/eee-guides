@@ -1,7 +1,7 @@
 ---
 title: 'Inventarmanagement Basics'
 image: '/images/allgemeines/inventarmanagement-basics/thumbnail.jpeg'
-description: 'Hier findest du Tipps und Tricks rund um Inventartaschen, Schrottitems und Wiederverwertung.'
+description: 'Hier findest du Tipps und Tricks rund um Inventartaschen, Schrottitems und Wiederverwertung die dir deinen Abenteurer-Alltag massiv erleichtern können.'
 hidden: false
 ---
 
