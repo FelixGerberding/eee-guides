@@ -101,10 +101,10 @@ Wenn du ein Log analysiert hast, willst du es verstehen. Hier sind ein paar kurz
 Beachte die Optionen "Phase duration" und "Phase active duration", bei letzterer werden tote Spieler nicht auf die Uptimes und Durchschnittswerte angerechnet
 
 - Boons
-* **Uptime** - Zeigt die durchschnittlichen Stacks und die Gesamtdauer an, es kann sich lohnen, bestimmte Bossphasen auszuwählen (direkt über den Gruppenmitgliedern), wenn der Boss Phasen hatte. Gibt einen guten Überblick darüber, ob die Boons gut oder schlecht waren und schlüsselt sie nach Sub-Squad auf. In einer perfekten Welt hättest du 25 Macht und 100% Uptime für alle erwarteten Boons.
-* Generation Self - Nützlich, um zu sehen, welche Boons man selbst erhält, aber normalerweise nicht so wichtig.
-* Generation Group - Die Boons, die jeder Spieler an seine Untergruppe (normalerweise 5 Spieler) gegeben hat.
-* Generation Squad - Die Boons, die der gesamte Squad erhalten hat. Mittlerweile nicht mehr besonders wichtig, früher konnten einige Klassen Boons für 10 Spieler geben.
+    * **Uptime** - Zeigt die durchschnittlichen Stacks und die Gesamtdauer an, es kann sich lohnen, bestimmte Bossphasen auszuwählen (direkt über den Gruppenmitgliedern), wenn der Boss Phasen hatte. Gibt einen guten Überblick darüber, ob die Boons gut oder schlecht waren und schlüsselt sie nach Sub-Squad auf. In einer perfekten Welt hättest du 25 Macht und 100% Uptime für alle erwarteten Boons.
+    * Generation Self - Nützlich, um zu sehen, welche Boons man selbst erhält, aber normalerweise nicht so wichtig.
+    * Generation Group - Die Boons, die jeder Spieler an seine Untergruppe (normalerweise 5 Spieler) gegeben hat.
+    * Generation Squad - Die Boons, die der gesamte Squad erhalten hat. Mittlerweile nicht mehr besonders wichtig, früher konnten einige Klassen Boons für 10 Spieler geben.
 - Offensiv-Buffs - Mit Bannern, Geistern und anderen Schadens-Buffs.
 - Defensiv-Buffs - Mehr Geister und Utility-Buffs.
 - Persönliche Buffs - Klassen- und spezialisierungsspezifische Buffs und Effekte. Einige interessante Details, aber nichts allzu Wichtiges.
