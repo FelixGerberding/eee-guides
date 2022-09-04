@@ -21,6 +21,7 @@ Die Echtzeit-Daten von ArcDPS (und die erstellten Logs) geben dir die grundlegen
 
 ArcDPS nutzt einen Hook mit Client-Netzwerkdaten, um Zugang zu einigen der nützlichsten Funktionen zu erhalten. Obwohl keine Änderungen an den Spieldateien vorgenommen werden, verstößt diese Methode der Datenextraktion direkt gegen die Guild Wars 2 AGB. 
 
+
 Allerdings hat ArenaNet in einem Reddit-AMA [hier](https://web.archive.org/web/20170917193052/https://www.reddit.com/r/Guildwars2/comments/5svug8/the_head_of_the_snake_devs_here_ask_us_anything/ddi77u2/) die Nutzung von DPS-Metern wie ArcDPS explizit erlaubt. In seinem jetzigen Zustand ist ArcDPS eine weit verbreitete Anwendung die zwar theoretisch gegen die offiziellen Terms of Service verstößt, allerdings von ArenaNet gedulded wird. Das ging so lange gut, bis der Entwickler von ArcDPS Funktionen hinzufügte, die über das hinausgingen, was ArenaNet tolerieren wollte. Von dort an bestand ein enger Kontakt zwischen ArenaNet und dem Entwickler von ArcDPS, der sich jedes zusätzliche Feature durch ArenaNet absegnen ließ. **Daher ist sehr unwahrscheinlich das ein Account aufgrund der Nutzung von ArcDPS gesperrt wird. Trotzdem kann sich ArenaNets Standpunkt natürlich jederzeit ändern.** Solltest du ArcDPS lieber nicht nutzen wollen kannst du andere Nutzer in deiner Gruppe bitten die fertigen Logs mit dir zu teilen und so ebenfalls alle Informationen erhalten.
 
 # Installation
