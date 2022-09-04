@@ -1,7 +1,7 @@
 ---
 title: 'Was sind eigentlich Fraktale?'
 image: 'https://i.imgur.com/Ai2Bgrz.jpg'
-description: 'Was sind Fraktale? Für wen ist das was? Und wie fängt man damit an?'
+description: 'Was sind Fraktale? Für wen ist das was? Und wie fängt man damit an? Dieser Guide gibt dir einen Überblick in die Fraktale damit du sofort durchstarten kanst!'
 hidden: false
 ---
 
