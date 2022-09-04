@@ -86,12 +86,8 @@ ArcDPS hat einige Addons, die es noch besser machen. Zur Installation lege einfa
 
 <alert color="red" icon="❗" text="Wenn du mit dem Mauszeiger über die Spalten oder Zahlen auf dps.report fährst, werden dir in der Regel zusätzliche Informationen angezeigt!">
 
-Sobald Sie ein Protokoll analysiert haben, sollten Sie es verstehen können. Hier sind einige kurze Tipps, worauf Sie achten sollten.
-
+Hier eine kleine Übersicht worauf man bei der Analyse eines Logs achten sollte. 
 ## General Stats
-
-=== Logs lesen ===
-Wenn du ein Log analysiert hast, willst du es verstehen. Hier sind ein paar kurze Tipps, was du dir ansehen solltest.
 
 * Schadensstatistiken - Schöner Überblick über die DPS auf einen Blick
 * Defensiv-Statistiken - Zeigt Tode und Niederlagen auf einen Blick an, nützlich, wenn du nach Runs suchst, in denen du nicht untergegangen bist.
